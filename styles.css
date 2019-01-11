@@ -1,14 +1,14 @@
-p {
-  background-color: green;
-}
-/* This background color only does stripes around text! */
 
+  /* background-color: green; */
+
+/* This background color only does stripes around text! */
+body {background-color: coral;}
 
 
 .sidebar {
-  width: 90%;
+  width: -20%;
   float: right;
-  background-color:#33FFFF;
+  background-color:#fff3e6;
 }
 
 img.resize {
@@ -23,6 +23,7 @@ img.resize {
 
 .rightphoto {
   float: right;
+  width: -20%;
   /* background-color:#33FFFF; */
 }
 
