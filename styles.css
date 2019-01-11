@@ -1,8 +1,15 @@
-/* .sidebar {
+p {
+  background-color: green;
+}
+/* This background color only does stripes around text! */
+
+
+
+.sidebar {
   width: 90%;
   float: right;
   background-color:#33FFFF;
-} */
+}
 
 img.resize {
   max-width:60%;
@@ -17,4 +24,11 @@ img.resize {
 .rightphoto {
   float: right;
   /* background-color:#33FFFF; */
+}
+
+.my-class {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: orange;
 }
