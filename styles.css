@@ -1,0 +1,10 @@
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color:#33FFFF;
+}
+
+img.resize {
+  max-width:30%;
+  max-height:30%;
+}
