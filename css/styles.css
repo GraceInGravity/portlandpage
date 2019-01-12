@@ -1,0 +1,35 @@
+
+  /* background-color: green; */
+
+/* This background color only does stripes around text! */
+body {background-color: coral;}
+
+
+.sidebar {
+  width: -20%;
+  float: right;
+  background-color:#fff3e6;
+}
+
+img.resize {
+  max-width:60%;
+  max-height:60%;
+}
+
+.leftphoto {
+  float: left;
+  /* background-color:#33FFFF; */
+}
+
+.rightphoto {
+  float: right;
+  width: -20%;
+  /* background-color:#33FFFF; */
+}
+
+.my-class {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: orange;
+}
